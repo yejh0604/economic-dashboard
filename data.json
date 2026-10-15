@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-14 01:46:55",
+  "updated_at": "2026-10-15 01:22:29",
   "indicators": {
     "cpi": {
       "period": "2026.09",
@@ -55,20 +55,20 @@
     },
     "export": {
       "period": "2026.10",
-      "value": 1209.4,
-      "yoy": 83.5,
-      "balance": 498.5,
+      "value": 700.0,
+      "yoy": 0.0,
+      "balance": 500.0,
       "is_flash": true,
       "source": "산업통상자원부 (당일 보도자료 속보)",
-      "source_url": "https://www.motie.go.kr/kor/article/ATCL3f49a5a8c/172254/view?mno=&pageIndex=1",
+      "source_url": "https://www.motie.go.kr/kor/article/ATCL3f49a5a8c/172289/view?mno=&pageIndex=1",
       "details": [
         {
           "name": "월간 무역수지",
-          "val": "+498.5억 달러"
+          "val": "+500.0억 달러"
         },
         {
           "name": "수출 증가율(YoY)",
-          "val": "+83.5%"
+          "val": "+0.0%"
         },
         {
           "name": "발표 구분",
